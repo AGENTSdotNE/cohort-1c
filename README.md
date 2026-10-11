@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Postgres-17-C5E63A?style=flat-square&labelColor=121212&logo=postgresql&logoColor=C5E63A" alt="Postgres 17">
 </p>
 
-**Staging:** _facilitator adds your team's staging link here_ · [what works differently there](docs/staging.md)
+**Staging:** [cohort-1c-production.up.railway.app](https://cohort-1c-production.up.railway.app) · [what works differently there](docs/staging.md)
 
 The base application gives your team a working starting point for the six-week project. It already includes
 account creation, sign-in, password recovery and account settings. It also provides the navigation around the
