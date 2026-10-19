@@ -436,8 +436,9 @@ seed:
 	docker compose exec backend uv run python manage.py seed_tasks
 ```
 
-If your brief came with a sample data file, save it in your app, such as `tasks/sample_data.csv`, and read
-it in the command instead of typing the records out. The column names come from the file's first row:
+The brief's sample data, `example_inbound.csv`, is in the root of the repository. To load it, copy it into
+your app, such as `tasks/sample_data.csv` (the backend container can only see `backend/`), and read it in
+the command instead of typing the records out. The column names come from the file's first row:
 
 ```python
 import csv

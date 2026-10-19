@@ -102,6 +102,7 @@ frontend/src/
   lib/          apiRequest, useApiForm, the query client, cn
   pages/        standalone pages, like the dashboard
 docs/           how things work, and how to add to them
+example_inbound.csv   fictional inbound items for the brief, as they arrive
 ```
 
 ## UI components
